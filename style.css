@@ -1,1 +1,14 @@
-/* put stuff in here!! */
+body {
+  background-color: GhostWhite;
+}
+
+h1 {
+  color: DarkSlateGray;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  color: coral;
+  font-size: 20px;
+}
